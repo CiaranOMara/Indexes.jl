@@ -13,7 +13,7 @@ GenomicFeatures = "899a7d2d-5c61-547b-bef9-6698a8d05446"
 BGZFStreams = "0.3"
 BioCore = "2"
 BufferedStreams = "1"
-GenomicFeatures = "2"
+GenomicFeatures = "3"
 julia = "1"
 
 [extras]
